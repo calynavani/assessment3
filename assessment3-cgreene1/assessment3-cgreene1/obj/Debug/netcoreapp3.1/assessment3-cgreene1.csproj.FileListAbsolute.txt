@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.exe
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.deps.json
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.runtimeconfig.json
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.dll
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\bin\Debug\netcoreapp3.1\assessment3-cgreene1.pdb
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.dll
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.pdb
+C:\Users\CGreene1\source\repos\assessment3-cgreene1\assessment3-cgreene1\obj\Debug\netcoreapp3.1\assessment3-cgreene1.genruntimeconfig.cache
